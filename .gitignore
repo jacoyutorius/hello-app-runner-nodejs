@@ -31,3 +31,5 @@ yarn-error.log*
 
 # repo specific
 public/images/banner_base_light.png
+
+.vscode
